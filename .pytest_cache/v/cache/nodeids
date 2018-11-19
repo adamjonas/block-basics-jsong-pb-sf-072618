@@ -1,0 +1,5 @@
+[
+  "test/index_test.py::BlockTest::test_hash",
+  "test/index_test.py::BlockTest::test_parse",
+  "test/index_test.py::BlockTest::test_serialize"
+]

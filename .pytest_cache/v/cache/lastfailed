@@ -1,0 +1,5 @@
+{
+  "test/index_test.py::BlockTest::test_hash": true,
+  "test/index_test.py::BlockTest::test_parse": true,
+  "test/index_test.py::BlockTest::test_serialize": true
+}
